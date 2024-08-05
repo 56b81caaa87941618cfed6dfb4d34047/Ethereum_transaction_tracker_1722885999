@@ -7,7 +7,7 @@ Vue.component("bottom_bar_component_1722886159", {
         <div id="bottom-bar-component-content" class="w-full max-w-xl mx-auto px-4 sm:px-6">
             <div id="action-buttons" class="flex py-4 md:py-6 space-x-4 justify-center">
                 <a id="contact-button" class="btn flex items-center justify-center w-1/2 h-12 p-3" :class="[contactButtonStyle, contactButtonHoverStyle, shadowStyle, 'transition duration-200 ease-in-out']" href="contact.html">Contact</a>
-                <a id="pay-button" class="btn flex items-center justify-center w-1/2 h-12 p-3 animate-shine bg-[size:200%_100%] hover:bg-[image:none] transition duration-200 ease-in-out" :class="[payButtonTextStyle, payButtonBackgroundStyle, shadowStyle, payButtonGradientStyle]">Pay</a>
+                <a id="pay-button" class="btn flex items-center justify-center w-1/2 h-12 p-3 animate-shine bg-[size:200%_100%] hover:bg-[image:none] transition duration-200 ease-in-out" :class="[payButtonTextStyle, payButtonBackgroundStyle, shadowStyle, payButtonGradientStyle]">Hello</a>
             </div>
         </div>
     </section>
